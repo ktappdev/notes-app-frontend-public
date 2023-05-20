@@ -1,4 +1,4 @@
-This is frontend for [Site](https://secretnote.netlify.app/) - written in Vuejs<br>
+This is frontend for https://secretnote.netlify.app/ - written in Vuejs<br>
 Here is a link to the backend - https://github.com/KTAppDev/notes-express-api-public <br>
 
 
