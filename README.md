@@ -1,5 +1,5 @@
 This is frontend for [Site](https://secretnote.netlify.app/) - written in Vuejs<br>
-here is a link to the backend - https://github.com/KTAppDev/notes-express-api-public <br>
+Here is a link to the backend - https://github.com/KTAppDev/notes-express-api-public <br>
 
 
 
